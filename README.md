@@ -11,6 +11,6 @@ This repository contains a Python script for analyzing medical data related to c
 - Categorical Variable Creation: The script creates a categorical variable based on the systolic blood pressure (SysBP) levels and visualizes its relationship with age using boxplots.
 - ANOVA: An analysis of variance (ANOVA) is performed to assess the effect of SysBP categories on the age of patients.
 
-#Dependencies:
+# Dependencies:
 - Python 3
 - Libraries: pandas, numpy, matplotlib, seaborn, statsmodels, scipy
